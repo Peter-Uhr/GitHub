@@ -7,8 +7,8 @@ Click on New file\
 On the text field for the file name, first write the folder name you want to create\
 Then type /. This creates a folder\
 You can add more folders similarly\
-Finally, give the new file a name (for example, .gitkeep which is conventionally used to make Git track otherwise empty folders; it is not a Git feature though)
-\Finally, click Commit new file.
+Finally, give the new file a name (for example, .gitkeep which is conventionally used to make Git track otherwise empty folders; it is not a Git feature though)\
+Finally, click Commit new file.
 
 Basic writing and formatting syntax [GitHub Pages](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax/).
 
