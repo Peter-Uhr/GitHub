@@ -37,4 +37,4 @@ Link to the first non-unique section: [Link Text](#this-heading-is-not-unique-in
 
 Link to the second non-unique section: [Link Text](#this-heading-is-not-unique-in-the-file-1).
 
-![11](https://myoctocat.com/assets/images/base-octocat.svg)
+![11](https://myoctocat.com/assets/images/octocats/octocat-14.png)
