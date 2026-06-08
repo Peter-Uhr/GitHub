@@ -1,3 +1,4 @@
+
 ## How do I create a folder in a GitHub repository?
 On GitHub, you can do it this way:
 
@@ -35,3 +36,5 @@ Link to the helpful section: [Link Text](#thisll-be-a-helpful-section-about-the-
 Link to the first non-unique section: [Link Text](#this-heading-is-not-unique-in-the-file).
 
 Link to the second non-unique section: [Link Text](#this-heading-is-not-unique-in-the-file-1).
+
+![11](https://myoctocat.com/assets/images/base-octocat.svg)
